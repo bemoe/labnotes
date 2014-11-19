@@ -1,0 +1,26 @@
+GPS (Where am I?)
+- pwd: tells you where you are
+- ls
+- cd ~: go home
+- tab: autocomples
+- cat: displays file
+- man: manual
+- cd: change directory (go to directory)
+- touch: makes file
+- echo: makes text appear somewhere
+                 - > moves information, overrides whatever is there
+                 - >> adds information to file
+- | (pipe)
+- less: make lists
+- x | grep "---" does a search of thing in qoutations
+- when i type echo "wenwoencowe" > , it moves it the qouted content to the specified folder
+- cp: copies one file onto the next
+- action plus -i, asks for permission. get in the habit of using this!
+- mv: move, if i move a file into a folder, after the specified folder i have the oppurtunity to rename the file
+- rm -ri "directory" removes specified files in that directory
+- 
+
+
+Unix Philosophy
+- Seems simple but allows us incredible abilities to  move around files, even encrypt email.
+- 
