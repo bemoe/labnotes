@@ -1,0 +1,24 @@
+##Turing Machines
+
+
+- Machine 1: Negates A
+- Machine 2: Affirms A
+- Machine 3: Can take a machine as an input! Other machines become inputs. A MACHINE THAT CAN RECONFIGURE ITS INTERNAL STATES
+- Turing laid groundwork and conversation for artificial intelligence
+- The symbol that gets fed into turing machine is abstract, and therefore software
+- The information the computer recieves, the data, IS PART OF IT PHYSICAL STATE!
+- The universal turing machine gains its power from being able to input complex machines in its input. Putting different machines together creates an exponential power, and this is what makes computing so powerful. 
+- A regular turing machine can only take a limited amount of information, can only read and write on tape. 
+
+
+##Weasel Words
+- Find three essays, turn into plain text
+- Make a list of weasel words
+- Search for those weasel words in those three .txt file
+- Use sed to replace weasel words with blank spaces
+- Have doc with both old and new sentances
+- With each step of "munging" (distructive data manipulation), make a new file
+
+
+
+sed "s/but/ /g" ertwords.txt
