@@ -1,0 +1,36 @@
+##Lab Notes (11.12.14)
+
+###How Github Works
+
+/home/usr/denten/project1/
+
+logs each change that you make in a directory, allows you to see versions of directories (there is a sense of evolving versions over time)
+
+*versions are fascinating, take for example, changing magazine covers, how each one is essentially the same, but a slightly updated version, and through studying the changing versions through time, we can learn about societal values and how they have changed.*
+
+FS level you git init (this is where you make changes)
+
+Stage level you git add (this is where you combine versions to make new version)
+
+Journal level you git commit those new versions to a permanent journal, a permanent log of your changes.
+
+**There is a remote version which multiple people can push changes to!!!!**
+
+Commands
+
+git status: tells us what the status of our files in git are
+
+
+HOW TO WORK ON GITHUB (SET UP ACCOUNT!)
+
+* set up new project directory
+
+
+## "IF YOU WANT TO REMIX YOU HAVE TO MAKE SURE YOU ARE WRITING IN PLAIN TEXT" - DENNIS
+
+HW: OVER THE WEEKEND
+
+
+
+
+
